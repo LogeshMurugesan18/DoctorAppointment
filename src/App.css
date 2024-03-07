@@ -1,0 +1,196 @@
+body{
+    background-image: url(bgimage.jpg);
+    background-size: cover;
+    opacity: 20px;
+}
+#aaa{
+   border-radius: 20%;
+   padding-left: 40%;
+   padding-top: 14%;
+   
+}
+#bbb{
+    color: blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    font-style: oblique;
+    text-shadow: 2px 2px;
+}
+#bba{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-style: oblique;
+    
+}
+#ccc{
+    margin-left: 60%;
+    margin-top: -35%;
+}
+#cc{
+    margin-top:-10%;
+    margin-left: 5%;
+}
+#ab{
+    color:purple;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: larger;
+}
+#ddd{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 450%;
+    font-style: oblique;
+    margin-left: 23%;
+}
+#eee{
+    margin-left: 20%;
+    padding-right: 70%;
+}
+#search{
+    padding-left: 36%;
+    
+}
+#lo{
+   margin-top: 45%;
+   border-radius: 10px;
+}
+
+#imgid{
+    padding-left: 20%;
+    margin-top: 3%;
+}
+#appobtn{
+    padding-left: 35%;
+    margin-top: -10%;
+}#t1{
+    padding-top: 9%;
+}#t2{
+    padding-top: 9%;
+}
+#mkappo{
+padding-top: 5%;
+padding-left: 19%;
+}
+#LS{
+    padding-top: 10%;
+}
+ #helpp{ 
+    margin-top: 6%;
+   background-position: center;
+   /* background:white; */
+   
+}
+#alert{
+padding-left: 25%;
+padding-inline-end: 40%;
+ margin-top: 10%; 
+ 
+}
+#iconn{
+    margin-top: 7px;
+    margin-left: 7px;
+}
+#calc{
+     padding-inline-start: 40%;
+     padding-inline-end: 40%;
+    
+}
+.jj{
+    width: 75%;
+    
+}
+#fbk{
+    padding-top: 7%;
+    padding-inline-start: 40%;
+    padding-inline-end: 40%;
+    padding-left: 30%;
+}
+ 
+#doctors{
+    margin-top: 10%;
+    padding-left: 39%;
+}
+#doct{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    font-style:oblique;
+    color:darkslateblue;
+    font-weight: 600;
+}
+#nxtbtn{
+    padding-inline-start: 75%;
+    padding-left: 60%;
+}
+#abt{ 
+   background-position: center;
+}
+#abt2{
+    font-weight:bolder;
+    font-style: oblique;
+    font-weight: 600;
+    margin: 5%;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+ 
+.jk{
+    background-color: rgba(198, 198, 198, 0.486);
+}   
+.pro{
+    position: absolute;
+    z-index: 1;
+    margin-left: 29%;
+    top: 65px;
+    left: 240px;
+    background:white;
+}
+.a{
+    padding:0 20px 0px 20px;
+}
+#time{
+    padding-left: 60%;
+   margin-top: -25%;
+}
+#doclog{
+    margin: auto;
+}
+
+.rat{
+    background-color:rgb(179, 200, 154);
+    padding-left: 17px;
+    padding-bottom:17px;
+    border-radius: 16px;
+}
+.login-buttons a button{
+    margin-right: 5px;
+} 
+#icon{
+    margin-left: 10%;
+    margin-top: -2.1%;
+}
+div.card{
+    width:250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    text-align: center;
+}
+div.header{
+    background-color: paleturquoise;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 20px;
+}
+#adcard{
+    display: flex;
+}
+#acard{
+    display: flex;
+}
+#bcard{
+    display: flex;
+}
